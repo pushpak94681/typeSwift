@@ -29,5 +29,3 @@ To run this project locally, follow these steps:
 4. After setting up the project locally, access the application at `localhost:3000`.
 
 ___
-# typeSwift
-# typeSwift
